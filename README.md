@@ -99,5 +99,5 @@ a small but genuine UVM-style driver/monitor testbench loop.
 ## Develop
 
 ```bash
-clojure -M:test
+kbb -M:test
 ```
